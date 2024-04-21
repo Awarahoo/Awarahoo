@@ -1,7 +1,12 @@
 ### Hi there 👋
-
+### A passionate Programmer and Web Developer from India
+**
+-Sophomore at Motilal Nehru National Institute of Technology, Allahabad, Prayagraj
+-3* at Codechef
+-I’m currently working on a MERN Projects
+-How to reach me krroshan002@gmail.com
+**
 <!--
-**Awarahoo/Awarahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
