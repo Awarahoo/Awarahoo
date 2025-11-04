@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### A passionate Programmer and Web Developer from India
 **
--Sophomore at Motilal Nehru National Institute of Technology, Allahabad, Prayagraj
+-Final year student at Motilal Nehru National Institute of Technology, Allahabad, Prayagraj
 -3* at Codechef
--I’m currently working on a MERN Projects
+-I’m currently working on a MERN and AI Projects
 -How to reach me krroshan002@gmail.com
 **
 <!--
